@@ -4,8 +4,8 @@ HTML - CSS - JS - React - Redux App
 
 ---
 
-<!-- [See The Project]()
+[See The Project](http://typingspeedapp.surge.sh/)
 
-![tsaimg]()
+![tsaimg](tsaimg.webp)
 
-[Patika](https://academy.patika.dev/tr/@alpk) -->
+[Patika](https://academy.patika.dev/tr/@alpk)

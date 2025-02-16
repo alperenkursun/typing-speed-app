@@ -75,6 +75,7 @@
   background-color: orange;
   border-radius: 4px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .footer {

@@ -2,17 +2,15 @@ import "./App.css";
 
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
-import Input from "./components/Input/Input";
+import Content from "./components/Content/Content";
 import Result from "./components/Result/Result";
-import TextPreview from "./components/TextPreview/TextPreview";
 
 function App() {
   return (
     <div className="app">
       <Header />
       <main className="main">
-        <TextPreview />
-        <Input />
+        <Content />
       </main>
       <Footer />
       <Result />
